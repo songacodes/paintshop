@@ -1,0 +1,35 @@
+{
+  "users": {
+    "grandadmin": {
+      "password": "grandadmin123",
+      "role": "superadmin",
+      "createdAt": "2025-07-21T10:32:32.329Z"
+    },
+    "admin": {
+      "password": "admin123",
+      "role": "master-admin",
+      "createdAt": "2025-07-21T10:32:32.329Z"
+    },
+    "kop2": {
+      "password": "kop2",
+      "role": "branch",
+      "branch": "kop2",
+      "createdAt": "2025-07-21T10:55:30.522Z"
+    },
+    "kop2admin": {
+      "password": "kop2",
+      "role": "admin",
+      "branch": "kop2",
+      "createdAt": "2025-07-21T10:55:30.522Z"
+    }
+  },
+  "branches": {
+    "kop2": {
+      "name": "kop2",
+      "location": "ngoma"
+    }
+  },
+  "clients": {},
+  "purchases": [],
+  "loginLogs": []
+}

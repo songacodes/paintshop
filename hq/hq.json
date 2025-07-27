@@ -1,0 +1,174 @@
+{
+  "users": {
+    "grandadmin": {
+      "password": "grandadmin123",
+      "role": "superadmin",
+      "createdAt": "2024-03-19T12:00:00.000Z"
+    },
+    "admin": {
+      "password": "admin123",
+      "role": "master-admin",
+      "createdAt": "2024-03-19T12:00:00.000Z"
+    },
+    "kop2": {
+      "password": "kop2",
+      "role": "branch",
+      "branch": null,
+      "createdAt": "2025-07-23T10:11:02.441Z"
+    }
+  },
+  "branches": {},
+  "clients": {
+    "kop1": [
+      {
+        "id": "6413f1b5-abd0-49b0-a89c-a1eca4cd4590",
+        "name": "Songan",
+        "phoneNumber": "0785745646"
+      }
+    ],
+    "shop1": [
+      {
+        "id": "20f19caa-6507-4a60-be0f-16111b42cd7a",
+        "name": "Derrick",
+        "phoneNumber": "0788621038"
+      },
+      {
+        "id": "98147451-ae65-4708-a34c-e1bcb73cf411",
+        "name": "Franco",
+        "phoneNumber": "0795095311"
+      }
+    ]
+  },
+  "purchases": [],
+  "loginLogs": [
+    {
+      "id": "ba3ab79a-73e2-4195-82c6-cae9bd8f7e86",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-19T12:32:23.495Z",
+      "status": "success"
+    },
+    {
+      "id": "d141125f-a89e-48c1-9a25-b049b908c0a9",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-19T12:33:03.732Z",
+      "status": "success"
+    },
+    {
+      "id": "f5d44f55-8938-49d8-987b-f20433bd74ed",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-19T15:17:36.907Z",
+      "status": "success"
+    },
+    {
+      "id": "82773b99-7e88-427d-a2e8-dc3d4523d6a7",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-19T15:37:56.113Z",
+      "status": "success"
+    },
+    {
+      "id": "2745061b-e9df-4112-94f2-f044157c7b0e",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-21T10:02:01.281Z",
+      "status": "success"
+    },
+    {
+      "id": "17e7a375-efdf-436e-af31-d93e2f7bdba5",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-21T10:12:11.854Z",
+      "status": "success"
+    },
+    {
+      "id": "eea37396-1f2e-4fc4-abd2-79467fdc69f6",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-21T10:16:40.551Z",
+      "status": "success"
+    },
+    {
+      "id": "2e2255cb-0812-4d28-8d9e-4fc540db108b",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-21T10:17:05.408Z",
+      "status": "success"
+    },
+    {
+      "id": "d6305057-5908-480e-abaf-c752adccda9e",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-21T10:20:48.011Z",
+      "status": "success"
+    },
+    {
+      "id": "5d9f7cd6-f96d-4cb8-9f3d-ff6f641b30a1",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-21T10:49:43.208Z",
+      "status": "success"
+    },
+    {
+      "id": "5a654b34-1993-4e4c-a7fb-3d8114fd3ec9",
+      "username": "admin",
+      "role": "master-admin",
+      "branch": null,
+      "timestamp": "2025-07-21T11:58:43.353Z",
+      "status": "success"
+    },
+    {
+      "id": "ef35cdfe-836c-49b0-92a3-6a826268cac7",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-21T12:01:14.518Z",
+      "status": "success"
+    },
+    {
+      "id": "57a146b5-9b33-4465-a296-22f111af00c5",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-21T12:48:16.594Z",
+      "status": "success"
+    },
+    {
+      "id": "2f6ba7c3-1dea-42b7-8e5a-ee427cfec3b1",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-23T09:35:35.551Z",
+      "status": "success"
+    },
+    {
+      "id": "2aee3963-2444-4641-ace1-62c758a2362e",
+      "username": "grandadmin",
+      "role": "superadmin",
+      "branch": null,
+      "timestamp": "2025-07-26T13:04:16.315Z",
+      "status": "success"
+    }
+  ],
+  "archivedClients": {
+    "kop1": [
+      {
+        "id": "54b8e188-6018-491c-ad37-e84dfd7d2474",
+        "name": "Franca",
+        "phoneNumber": "0788621037"
+      }
+    ]
+  }
+}

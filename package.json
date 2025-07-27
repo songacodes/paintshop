@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "glob": "^11.0.3",
+    "lowdb": "^1.0.0",
+    "uuid": "^11.1.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
